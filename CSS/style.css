@@ -1,0 +1,30 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    background-color:#ff6900;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    background-color:#ff6900;
+    
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    background-color:#ff6900;
+}
+.p{
+    font-size: 19px;
+}
+.p1{
+    font-size: 19px;
+}
+
+.ol{
+    font-weight: bold;
+}
